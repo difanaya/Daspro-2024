@@ -54,6 +54,6 @@ public class Siakad10 {
         System.out.println("Nilai akhir huruf: "+ nilaiAkhirHuruf);
         System.out.println("Kualifikasi: "+ Kualifikasi);
 
-        sc.close();
+        
     }
 }
